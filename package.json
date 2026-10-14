@@ -55,3 +55,4 @@
     "wrangler": "^4.127.0"
   }
 }
+"packageManager": "pnpm@10.13.1"
